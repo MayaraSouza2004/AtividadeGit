@@ -1,2 +1,3 @@
 # AtividadeGit
-Primeira Atividade usando Git
+Primeira Atividade usando Git usando o software gitDesktop
+
